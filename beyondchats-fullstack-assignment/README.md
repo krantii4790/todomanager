@@ -193,12 +193,14 @@ The frontend allows users to:
 
 - Automatically process tasks via Node worker
 
-![Task Manager UI](https://raw.githubusercontent.com/Krantikumar4211/beyondchats-fullstack-assignment/main/screenshots/frontend-tasks.png)
+
 
 ### Worker Processed Tasks
 Tasks are automatically picked up by the Node.js worker and marked as completed.
 
-![Worker Processed](https://raw.githubusercontent.com/Krantikumar4211/beyondchats-fullstack-assignment/main/screenshots/worker-processing.png)
+<img width="1920" height="1080" alt="frontend-tasks" src="https://github.com/user-attachments/assets/4809264e-08fa-4cb1-ba89-05567f244862" />
+
+<img width="1920" height="1080" alt="worker-processing" src="https://github.com/user-attachments/assets/36ce8920-16d1-49b2-82e8-3c8163a40a08" />
 
 
 ---
